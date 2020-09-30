@@ -1,5 +1,8 @@
 # P5-txtSound
+<img src="https://www.pizza-punk.com/wp-content/uploads/2020/08/artwork-PIZZAPUNK-mural-22.jpg" width="350">
+
 All javascript P5 sketch for generative design in 3D (Webgl) with audio reaction published <a href="https://www.pizza-punk.com">Pizza-punk.com</a>.
+
 You have to replace the name of the sketch in index.html.
 
 It's pizza punk's code so don't except perfection and elegance ;-)
